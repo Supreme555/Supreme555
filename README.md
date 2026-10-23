@@ -51,7 +51,7 @@ Also: BullMQ, MinIO, JWT/OAuth, Helm, App Store Connect, Google Play Console, LL
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Supreme555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="./assets/stats.svg" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreme555&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
 </div>
