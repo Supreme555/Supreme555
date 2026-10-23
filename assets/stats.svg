@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="t">
+  <title id="t">Abylay's GitHub Stats</title>
+  <style>
+    .bg { fill: #1a1b27; stroke: #2a2d3e; stroke-width: 1; }
+    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .value { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .dot { fill: #bf91f3; }
+    .ring-bg { fill: none; stroke: #2a2d3e; stroke-width: 6; }
+    .ring { fill: none; stroke: #38bdae; stroke-width: 6; stroke-linecap: round; }
+    .grade { font: 700 34px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .sub { font: 500 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b8fa8; }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" rx="4.5" width="494" height="194"/>
+  <text class="title" x="25" y="35">Abylay's GitHub Stats</text>
+
+  <g transform="translate(25, 62)">
+    <circle class="dot" cx="5" cy="-4" r="4"/>
+    <text class="label" x="22" y="0">Commits (last year):</text>
+    <text class="value" x="215" y="0">1,542</text>
+  </g>
+  <g transform="translate(25, 87)">
+    <circle class="dot" cx="5" cy="-4" r="4"/>
+    <text class="label" x="22" y="0">Contributions (last year):</text>
+    <text class="value" x="215" y="0">1,988</text>
+  </g>
+  <g transform="translate(25, 112)">
+    <circle class="dot" cx="5" cy="-4" r="4"/>
+    <text class="label" x="22" y="0">Repositories with commits:</text>
+    <text class="value" x="215" y="0">46</text>
+  </g>
+  <g transform="translate(25, 137)">
+    <circle class="dot" cx="5" cy="-4" r="4"/>
+    <text class="label" x="22" y="0">Active days:</text>
+    <text class="value" x="215" y="0">218</text>
+  </g>
+  <g transform="translate(25, 162)">
+    <circle class="dot" cx="5" cy="-4" r="4"/>
+    <text class="label" x="22" y="0">Organizations:</text>
+    <text class="value" x="215" y="0">GRMarkVL</text>
+  </g>
+
+  <g transform="translate(400, 100)">
+    <circle class="ring-bg" r="40"/>
+    <circle class="ring" r="40" stroke-dasharray="251.3" stroke-dashoffset="50" transform="rotate(-90)"/>
+    <text class="grade" x="0" y="12" text-anchor="middle">A</text>
+  </g>
+  <text class="sub" x="400" y="165" text-anchor="middle">Nov 2025 - Oct 2026</text>
+</svg>
